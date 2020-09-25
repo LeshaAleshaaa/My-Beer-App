@@ -13,4 +13,4 @@ ____
 :beer: Проверка отсутствия интернет соединения
 
 
-![Иллюстрация к проекту](https://github.com/LeshaAleshaaa/My-Beer-App/blob/master/BeerInfo.jpg)
+![Иллюстрация к проекту](https://github.com/LeshaAleshaaa/My-Beer-App/blob/master/BeerInfo.JPG)
